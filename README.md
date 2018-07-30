@@ -7,11 +7,11 @@ http://shabazbadshah.com/SCRUMtious-Website/
 ### Members
 Shabaz Badshah - https://github.com/ShabazBadshah
 
-Nensi Deliana - https://github.com/delianan
+Nensi Deliana - https://github.com/nensideliana
 
-Muhammad Waleed - https://github.com/waleedmu
+Muhammad Waleed - https://github.com/MuhammadWaleed01
 
-Swetha Maramganty - https://github.com/maramgan
+Swetha Maramganty - https://github.com/SwethaMaramganty
 
 Usaim Bhayat - https://github.com/bhayatus
 
