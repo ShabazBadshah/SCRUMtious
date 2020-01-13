@@ -1,19 +1,15 @@
 ### SCRUMtious (An Agile Scrum environment logistics tool)
 An Android app that helps manage the logistics of remote teams working on projects in agile Scrum environments. The app keeps track of their user stories, tasks, sprint backlog, product backlog, amongst many other things.
 
-### Site Link
+### Download App
 http://shabazbadshah.com/SCRUMtious-Website/
 
 ### Members
-Shabaz Badshah - https://github.com/ShabazBadshah
-
-Nensi Deliana - https://github.com/nensideliana
-
-Muhammad Waleed - https://github.com/MuhammadWaleed01
-
-Swetha Maramganty - https://github.com/SwethaMaramganty
-
-Usaim Bhayat - https://github.com/bhayatus
+- Shabaz Badshah - https://github.com/ShabazBadshah
+- Nensi Deliana - https://github.com/nensideliana
+- Muhammad Waleed - https://github.com/MuhammadWaleed01
+- Swetha Maramganty - https://github.com/SwethaMaramganty
+- Usaim Bhayat - https://github.com/bhayatus
 
 ### Installation Instructions
 #### Option 1:
